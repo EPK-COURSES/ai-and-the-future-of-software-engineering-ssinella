@@ -6,11 +6,11 @@ Link: https://survey.stackoverflow.co/2025/
 Used for:
 This source was used to understand how developers currently view AI tools, especially trust, accuracy, and the need for human verification of AI-generated answers.
 
-2. Google Cloud DORA. (2024). Accelerate State of DevOps Report 2024.
-Link: https://dora.dev/research/2024/dora-report/
+Google Cloud DORA. (2025). State of AI-assisted Software Development 2025.
+Link: https://dora.dev/dora-report-2025/
 
 Used for:
-This report was used to support the idea that AI can improve individual productivity, but software teams still need strong engineering practices such as testing, code review, small changes, and stable delivery processes.
+This report was used to support the idea that AI is becoming part of software development workflows, but teams still need strong engineering practices, human judgment, testing, collaboration, and clear responsibility.
 
 3. McKinsey & Company. (2025). Superagency in the workplace: Empowering people to unlock AI’s full potential at work.
 Link: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work
