@@ -6,7 +6,7 @@ Link: https://survey.stackoverflow.co/2025/
 Used for:
 This source was used to understand how developers currently view AI tools, especially trust, accuracy, and the need for human verification of AI-generated answers.
 
-Google Cloud DORA. (2025). State of AI-assisted Software Development 2025.
+2.Google Cloud DORA. (2025). State of AI-assisted Software Development 2025.
 Link: https://dora.dev/dora-report-2025/
 
 Used for:
