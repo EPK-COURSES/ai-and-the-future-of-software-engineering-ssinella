@@ -1,0 +1,19 @@
+Personal Reflection
+
+After researching this topic, I realized that AI will not make human skills less important in software engineering. It may actually make them more important. Before doing this assignment, I mostly thought about AI as a tool that helps developers write code faster. After reading more about it, I understood that software engineering is not only about writing code. It is also about understanding problems, working with people, making decisions, and taking responsibility for the final result.
+
+What surprised me most is that many developers still do not fully trust AI-generated output. The Stack Overflow Developer Survey 2025 shows that more developers distrust the accuracy of AI tools than trust it. This made me think differently about AI. If professional developers are still careful with AI answers, then students and junior developers should be even more careful. AI can be useful, but it should not be treated like it is always correct.
+
+One concern I have is that some people may use AI as a shortcut instead of using it as a learning tool. If a developer lets AI generate code without understanding it, they may finish a task quickly, but they will not build real skill. This can become a problem when they need to debug the code, explain it to someone else, or fix it later. In real software engineering, understanding the system is more important than just producing code.
+
+At the same time, I do not think AI is something developers should ignore. AI can be very helpful for learning, brainstorming, documentation, debugging, and getting ideas when stuck. The important thing is how it is used. A good developer should use AI to support their thinking, not to replace their thinking.
+
+The DORA 2025 report made this clearer to me because it describes AI as an amplifier. This means AI can make strong teams better, but it can also make weak processes worse. I think this is important because it shows that AI does not fix bad communication, poor testing, unclear requirements, or weak teamwork. Human skills and good engineering habits are still needed.
+
+The skills I believe will remain most important are critical thinking, communication, problem solving, teamwork, ethical reasoning, and systems thinking. Critical thinking is needed because AI can be wrong. Communication is needed because developers must explain ideas and understand requirements. Problem solving is needed because real projects are not always clear. Teamwork matters because most software is built with other people. Ethical reasoning matters because software can affect users, privacy, and security. Systems thinking matters because one small change can affect many parts of a project.
+
+This assignment changed my opinion a little. I do not think the future belongs only to developers who can write code the fastest. I think the future belongs to developers who can understand problems deeply, use AI responsibly, review output carefully, and work well with others. AI may reduce the value of simple repetitive coding, but it increases the value of judgment and responsibility.
+
+Personally, I want to adapt by learning how to use AI tools, but without becoming dependent on them. I want to keep improving my programming fundamentals, testing habits, security knowledge, and communication skills. If I use AI to help me write or understand code, I should still be able to explain what the code does and why it works.
+
+In conclusion, AI will change software engineering, but it will not remove the need for human software engineers. The role may become less about writing every line manually and more about understanding, reviewing, designing, communicating, and taking responsibility. For me, the best software engineers in the AI era will be the ones who combine technical knowledge with human judgment.
